@@ -99,7 +99,7 @@ frozen_empire['infos'] = [
   '26|29|Vase|Money (400)<br>Chain Shirt, AC:3<br>Remove paralysis potion<br>Full healing potion<br>Scroll of Mass heal',
   '27|41|Well|After drinking from well, you feel Gods are with you for an hour.',
   '27|43|Well|After drinking from well, you feel you\'re full of power.',
-  '27|45|Well|After drinking from well, nothing happens.',
+  '27|45|Well|After drinking from well, you see dead members wake up.',
   '28|13|Vase|Full healing potion, Scroll of Harm undead,Scrol of Lighting bolt',
   '28|23|Vase|Leather Pants, AC:2<br>Full mana potion',
   '30|29|Vase|Money (260), Full mana potion, Remove paralysis potion, Scroll of Clean Way',

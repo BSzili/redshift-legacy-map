@@ -60,7 +60,7 @@ ksaid_cult_temple['infos'] = [
   '17| 4|Ground|Evlen Long Bow, Damage: 9-14',
   '17| 8|Ground|Remove paralysis potion',
   '17|11|Well|After drinking from the well, you feel Gods are with you for an hour.',
-  '17|21|Well|After drinking from the well, nothing happens.',
+  '17|21|Well|After drinking from the well, you see dead members wake up.',
   '21| 6|Sphere|You touch the sphere and feel your mana is restored.',
   '22|16|Gabriel|It\'s Gabriel!<br>She\'s a little dazed but unharmed<br>You releaseher and take her back to her mother Greta<br>You know she will be ok because all she talks about is she broke another nail.. sigh.. some things never change',
   '23|23|Map made by Mervin and engine made by Markus Birth|&lt;<A HREF="mailto:webmaster@mervin.sk">webmaster@mervin.sk</A>&gt; &amp; &lt;<A HREF="mailto:mbirth@webwriters.de">mbirth@webwriters.de</A>&gt;'

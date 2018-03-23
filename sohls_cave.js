@@ -48,7 +48,7 @@ sohls_cave['infos'] = [
   '14|16|Shelf|Put the Sphere of Orientation here.',
   '16|2|Well|After drinking from well, you feel you\'re full of power.',
   '17|15|Sign|Finding right path',
-  '20|2|Well|After drinking from the well, nothing happens.',
+  '20|2|Well|After drinking from the well, you see dead members wake up.',
   '20|16|Teleporter|You arrive to the Home of Ignorance',
   '22|28|Map made by Mervin and engine made by Markus Birth|&lt;<A HREF="mailto:webmaster@mervin.sk">webmaster@mervin.sk</A>&gt; & &lt;<A HREF="mailto:mbirth@webwriters.de">mbirth@webwriters.de</A>&gt;'
   ];
